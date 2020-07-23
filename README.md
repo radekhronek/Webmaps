@@ -1,6 +1,6 @@
 # Webmaps
 
-In output file you can see map of the world with volcanoes in USA.
+In output file (map.html) you can see map of the world with volcanoes in USA.
 
 TO DO LIST:
 1) Add highest mountain in the world
